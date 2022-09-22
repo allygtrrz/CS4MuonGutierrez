@@ -6,7 +6,7 @@
 package ex02muongutierrez;
 /**
  *
- * @author MUON
+ * @author Ally
  */
     import java.util.Scanner;
 public class Ex02MuonGutierrez {
