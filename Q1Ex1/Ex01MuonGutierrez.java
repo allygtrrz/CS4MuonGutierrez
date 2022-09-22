@@ -6,7 +6,7 @@
 package ex01muongutierrez;
 /**
  *
- * @author MUON
+ * @author Ally
  */
 public class Ex01MuonGutierrez {
     /**
