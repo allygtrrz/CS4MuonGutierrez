@@ -12,10 +12,10 @@ public class Main {
         Singer a3 = new Singer("Arctic Monkeys", s3);
         Singer a4 = new Singer("NIKI", s4);
 
-        Fan f1 = new Fan("Ally", s1, a1);   // me
-        Fan f2 = new Fan("Claire", s2, a2); // my friend
-        Fan f3 = new Fan("Vicky", s3, a3);  // my friend
-        Fan f4 = new Fan("Julia", s4, a4);  // my sister
+        Person f1 = new Person("Ally", s1, a1);   // me
+        Person f2 = new Person("Claire", s2, a2); // my friend
+        Person f3 = new Person("Vicky", s3, a3);  // my friend
+        Person f4 = new Person("Julia", s4, a4);  // my sister
 
         a1.performForAudience(12);
         System.out.println(a1.name + " has performed " + a1.noOfPerformances + " time(s).");
